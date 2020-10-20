@@ -1,5 +1,5 @@
 en,     , English    ,
-fl,		, Flavor	 ,
+re,		   , Reimagined Races	 ,
 de,     , Deutsch    ,
 el,     , Ελληνικά   ,
 es,     , Español    ,
