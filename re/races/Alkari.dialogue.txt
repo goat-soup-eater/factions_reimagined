@@ -1,0 +1,93 @@
+//
+// All text below this point is copyright 2018-2020 Jeff Colucci
+// 
+// Licensed under the Creative Commons License, 
+// Attribution-NonCommercial-NoDerivatives 4.0 International (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     https://creativecommons.org/licenses/by-nc-nd/4.0/
+//  
+// This license is legally binding. Please review this license before altering 
+// or distributing any material covered under this license.
+//
+
+// Alkari specific dialogue
+
+CONTACT_HONORABLE          | I, God-Emperor of the [my_race] people, [my_name] greet you, [your_nameTitle] [your_name]. I look forward to a bright future for [my_race] and [your_race] alike. 
+CONTACT_PACIFIST           | Greetings! I am the God-Emperor [my_name] of the [my_race] people. It is my desire for both the [my_race] and [your_race] peoples to live in peace and cooperation. 
+CONTACT_ERRATIC            | I am the sole leader of the glorious [my_empire] which has existed for many years. I greet you in the name of the [my_race] people. You call yourself the [your_race], do you not?
+
+//
+GREETING_01                | Greetings. How may I and the [my_race] people help you?
+GREETING_04                | Hello. Please be brief, for I have many other matters to attend to.
+GREETING_07                | You test My patience contacting the Empire! State your demands, and state them now!
+
+//
+DECLAREWAR_HATE_01         | Even though I consider peace and cooperation to be the best ways to prepare for Their arrival, the existence of your species throws a wrench in My plans. Prepare to have your kind eradicated, [your_race].
+DECLAREWAR_HATE_02         | While every species lost during this period of galactic chaos brings us all closer to annihilation, I and My advisors have deemed the removal of your species necessary. Step by step it will be done, until every [your_race] is destroyed.
+DECLAREWAR_HATE_03         | It should have been obvious from the very beginning that peaceful co-existence between our peoples was impossible. Alas, poor [your_race], if only one of our species can exist in this galaxy, I will do everything in my power to ensure it will be Mine!
+//
+DECLAREWAR_ERRATIC_01      | The war against Them will undoubtedly be tough, even with all the preparation I have done in the last hundred years. But alas, simulations can only be so accurate. Sometimes real, physical training is more effective. In this case, it will be a war against your species.
+DECLAREWAR_ERRATIC_02      | This galaxy has no understanding of galactic warfare, the kind that will be required when They arrive. To make the galaxy understand, both our people will battle, until only one is left. The one which remains will be the one most fit to prepare for Their arrival.
+DECLAREWAR_ERRATIC_03      | I have concluded that your people are far too weak to survive even the beginning of Their invasion. To destroy you now is not only to deny Them the resources they crave, but an act of mercy that will free your people from the suffering that will occur, [your_race].
+//
+DECLAREWAR_MILITARY_01     | All of My preparation for Their arrival will be useless if the Empire is not spread out into the galaxy sufficiently! If the Empire cannot expand peacefully, we will expand aggressively!
+DECLAREWAR_MILITARY_02     | All the resources of this galaxy must be utilized for preparing for Their arrival. I can't help but notice you hold quite a few resource-rich worlds which are not used for that goal. The Empire shall correct this, with military force.
+DECLAREWAR_MILITARY_03     | My newest calculations at just what will be required for Their arrival say that the Empire's current size is simply not enough to prepare for Their invasion properly. This must be rectified. With military force.
+//
+DECLAREWAR_ALLIANCE_01     | Alliances are the way the Empire will dominate this galaxy and prepare it for Their arrival! If a war with you is required to preserve My alliance with the [other_empire], then I will pay that price gladly.
+DECLAREWAR_ALLIANCE_02     | The Empire does not make promises It does not hold, [your_race]. We promised to help our ally in matters of war and now is Our time to do so, by declaring a war on your empire.
+DECLAREWAR_ALLIANCE_03     | We have not ignored the changes to your relationship with the [other_empire]. In fact, We have been watching the situation very closely, and now it is Our time to interfere, by declaring war on your empire.
+//
+DECLAREWAR_SPYING_01       | Perhaps you thought that you could get away with this. Perhaps you thought that the only response you would get from the Empire would be a strongly worded letter. You could not have been more wrong. 
+DECLAREWAR_SPYING_02       | Some said I am a hypocrite for condeming your kind for spying on mine when I am doing the exact same thing. They are dead now, just as you will be soon enough for thinking you could spy on the Empire and get away with it.
+DECLAREWAR_SPYING_03       | The Empire cannot show weakness by ignoring this kind of behavior! A war with you will show the other races what happens to those who think they can take advantage of the Empire!
+//
+DECLAREWAR_ATTACK_01       | So be it. Attacking so brazenly shows your true intentions for what they are: causing death and destruction! The Empire will respond accordingly. 
+DECLAREWAR_ATTACK_02       | The Empire will not tolerate this kind of behavior! Prepare for war!
+DECLAREWAR_ATTACK_03       | If war is what you desire, then fear not, the Empire will provide it to you, war of the highest caliber.
+//
+DECLAREWAR_OPPORTUNITY_01  | Every opportunity to further the Empire's power in this galaxy must be taken. Unfortunately, this one requires the [your_race] species to simply... cease existing. 
+DECLAREWAR_ASSASSIN_01     | I and the political leadership of the Empire have been looking for an excuse to start a war with your race for quite some time now. I believe We just found one.
+
+
+
+
+OFFER_PEACE_01             | Both of our peoples must now understand that this war is taking our attention away from focusing on the things that really matter, like preparing for Their arrival. Let Us sign this peace treaty, [your_name], to prevent any further conflict.
+OFFER_TRADE_01             | You must realize that this is not a zero-sum game, [your_name]. I think we can both prosper in mutual cooperation, and I think the best way to do exactly that is signing a trade agreement set at [amt] BC. What do you think, [your_name]?
+OFFER_PACT_01              | The continued trade between both our races proves that we can prosper in mutual cooperation, [your_name]. However, even with the deterrent of breaking our trade treaties preventing war for now, peace is not certain. Why not rectify this mistake by signing a Non-Aggression Pact? What is your response?
+OFFER_ALLIANCE_01          | Our NAP and strong trade treaty show that both our races can live in peaceful coexistence, [your_name]. I think it is time to take our relationship to the next level by forming an Alliance. What is your response?
+WARN_TRESPASSING_01        | [my_race] space is called [my_race] space for a reason, [your_race]. Send your fleets away to your own planets. Or else.
+WARN_EXPANSION_01          | Such quick expansion is troubling. The Empire must achieve galactic dominance for this galaxy to have any chance against Them. You aren't planning on taking all the worlds for yourself and becoming a sole galactic superpower, are you not? 
+WARN_BUILDUP_01            | While military buildup is a wise decision in these uncertain times and Their arrival getting nearer and nearer, I cannot help but notice that your buildup focuses exclusively on areas near the Empire. You will stop this at once, or else.
+WARN_SKIRMISH_01           | Did you really think you could just attack our fleets without consequences, [your_race]? Luckily for you, the Empire is willing to give you a second chance and forget this ever happened, if you return your fleets back to your colonies and do not commit any more attacks.
+WARN_ATTACKED_01           | The recent space battle between [my_race] and [your_race] fleets must be a lone incident, [your_race]. Otherwise I fear war will break out, and I think neither one of us wants that.
+WARN_INVADED_01            | Your unprovoked open invasion of [system] is something that I did not expect, even from a race like yours, [your_race]. If hostilities continue then war will be the only possible outcome.
+WARN_ESPIONAGE_01          | Spies were recently discovered in the Empire. [your_race] spies, trying to steal [my_race] technology. I personally let the spy go this time, but you will order the remaining ones to abort their mission. Or else. [framed]
+WARN_SABOTAGE_01           | Several installations recently went offline in the Empire, along with [your_race] spies being discovered near them. The Empire does not negotiate with terrorists, but an exception will be made this time, provided you do not do anything like this again.
+WARN_BIOWEAPON_01          | Sometimes biological weapons have their uses. But with each time you do, using them more and more casually, how long until [my_race] worlds become their targets? Perhaps a pre-emptive approach would work in this situation, isn't that right, [your_race]?
+WARN_GENOCIDE_01           | Perhaps it was necessary. Perhaps the extermination of the [victim_race] species was the correct long-term decision. Even if it was, the fact that you were able of achieving such a feat alone is grounds enough for concern.
+WARN_FINAL_WAR_01          | After centuries of bloodshed and conflict, the galaxy is finally united. Every species finally understanding the need to unify, ready to work towards a better future, together. Except yours. The solution is obvious, a final war to extinction between the New Republic and the [rebel_empire]!
+WARN_COUNCIL_VOTE_01       | How could you not vote for Me in the Galactic Council, even after I provided extensive proof of Their existence and the need for the [my_race] Empire to achieve galactic dominance?! I will remember this, [your_race].
+WARN_OATHBREAKER_01        | How do you expect Us to conduct diplomacy with you if you cannot even be trusted? 
+WARN_ATTACKED_ALLY_01      | We have seen your skirmishes with the [defender_race]. You will stop, or else We will be forced to unleash our starfleets to defend the [defender_race], as Our Alliance requires.
+WARN_REBELLING_AGAINST_01   | No! How could this be?! The [my_race] Empire was supposed to rise to galactic superpower in this very moment and start the full preparation for Their arrival! But instead, *you* were elected! I may have to correct this, with military force, should it continue being this way!
+ 
+
+PRAISE_COUNCIL_VOTE_01     | It is a good thing that there are those who realize the need for the Empire to achieve galactic domination, 
+PRAISE_COUNCIL_VOTE_02     | Greetings to you, ambassador. You honor us with a voice that speaks favor to our cause before those gathered here. I’m certain that the Spire King will wish to learn more of such an honorable people as soon as I make my report to him. 
+PRAISE_COUNCIL_VOTE_03     | Hmfhmfhmf, surely you do not expect us to believe that you sided with Sovereignty out of respect or a sense of honor, ambassador? Yet, perhaps you will continue to prove yourself to us if only we give you more chance to do so? 
+
+PRAISE_ATTACKED_ENEMY_01   | Ah! Our esteemed friend and ally brings good tidings in this time of war! Come ambassador: let our people do battle against these horrid [defender_race] together as both brothers-in-arms and brothers-in-honor! 
+PRAISE_ATTACKED_ENEMY_02   | This war shall be over quickly, ambassador. Even alone the Sovereignty would easily overpower these vulgar [defender_race] beasts. But together? Oh, together we shall wipe the stain of their race clean from the galaxy forever! 
+PRAISE_ATTACKED_ENEMY_03   | I am as certain that you act out of opportunity as I am certain that you do not know the meaning of the word "honor"! We allow you to help us against the [defender_race], if for nothing more than to prevent us from taking as many casualties as we might otherwise! 
+
+PRAISE_TRADE_01            | It relieves me more than you know, ambassador, that your people conduct business so honorably. The Sovereignty honors you and your people, and will value our friendship even more than it does our continued agreement of trade! 
+PRAISE_TRADE_02            | There are many ways to prove one's honor, ambassador. Conducting business fairly and in good faith is one of the best ways to do so, and the Sovereignty values it highly from those we encounter in this galaxy. 
+
+PRAISE_REBELLING_WITH_01     | Those brutes on the council underestimate us, ambassador! Together we will show them what the term "fatal misstep" truly means! 
+
+DIPLO_MAIN_MENU_01           | How may our empire serve you?
+DIPLO_MAIN_MENU_02           | Please end communications as soon as your concerns are dealt with.
+DIPLO_MAIN_MENU_03           | ...

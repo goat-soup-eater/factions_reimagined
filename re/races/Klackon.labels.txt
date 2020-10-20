@@ -1,0 +1,158 @@
+// race-specific variables (must start with _)
+_empire                           | Klackon Hive, Insecton Hive, Termitton Hive, Arthropon Hive, Coleopteron Hive
+_race                             | Klackon, Insecton, Termitton, Arthropon, Coleopteron
+_race_plural                      | Klackon, Insecton, Termitton, Arthropon, Coleopteron
+_title                            | ruler
+_nameTitle                        |
+
+GOVT_EMPIRE                       | %1 Hive
+
+//
+// All text below this point is copyright 2018-2020 Jeff Colucci
+// 
+// Licensed under the Creative Commons License, 
+// Attribution-NonCommercial-NoDerivatives 4.0 International (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     https://creativecommons.org/licenses/by-nc-nd/4.0/
+//  
+// This license is legally binding. Please review this license before altering 
+// or distributing any material covered under this license.
+//
+
+// Advisor text
+MAIN_ADVISOR_TITLE                | The Hive
+MAIN_ADVISOR_BUTTON_OK            | Acknowledge
+MAIN_ADVISOR_SCOUT                | The worker-drones have finally finished work on the Hive's first starships. The Hive must now utilize them to explore other star systems and, when a habitable planet is located, colonize it.
+MAIN_ADVISOR_TRANSPORT            | The drones are already starting to build the first hive on the planet. If a portion of Kholdan's population was transported to it, the colony would develop faster.
+MAIN_ADVISOR_DIPLOMACY            | The Hive has found an alien life-form. But little is known about them. Perhaps prior to contacting them with xenorelations drones the Hive should learn more about their behavior.
+MAIN_ADVISOR_SHIP_ENGINE          | Only now is it clear how slow and inefficient the first FTL engines were. All future ships should use these new engines, otherwise they may be outmaneuvered by the Hive's enemies.
+MAIN_ADVISOR_RALLY_POINTS         | The Hive has entered conflict with an alien life-form. Action must be taken quickly. The Hive must order it's drones to build new armed starships, and send them to rally points.
+MAIN_ADVISOR_MISSILE_BASES        | Hive colonies on the edge of it's territory are completely defenseless. The Hive should order the drones to build defensive missile bases to deter attackers.
+MAIN_ADVISOR_SHIP_WEAPON          | The thought-drones have created a new space-based weapon. To further the Hive's goal of dominating this galaxy it should be integrated into all future armed starships.
+MAIN_ADVISOR_COUNCIL              | It seems that the inhabitants of this galaxy want to elect a galactic leader. The Hive should direct it's xenorelations-drones to show it's neighbors that the Hive would be the best canditate.
+MAIN_ADVISOR_REBELLION            | It seems that the drones on %1 have... achieved self-awareness and are not fulfilling their directives. The Hive must put an end to this as soon as possible, by killing all affected drones.
+MAIN_ADVISOR_RESIST_COUNCIL       | The Hive cannot allow this "Council" to dominate this galaxy. To allow that would impede the Hive's future expansion. It must be removed, and only then will the Hive achieve it's destiny.
+MAIN_ADVISOR_COUNCIL_RESISTED     | It is strange, how an attempt at creating harmony has ended up creating conflict. But no matter. As soon as the last of these weak "rebels" are hunted down, harmony will reign in the galaxy. 
+
+MAIN_SCOUT_TITLE                  | The Hive Explores A New Star System
+MAIN_COLONIZE_TITLE               | Hive settler drones are orbiting %1, an uncolonized star system.
+MAIN_COLONIZE_ANIMATION_TITLE     | In the year %1, the Hive forms a new colony.
+MAIN_ALERT_SPY_CAPTURED           | Hive security-drones have captured a spy from the %1, forcing a confession of it's %2 activities.
+MAIN_ALERT_TRANSPORTS_KILLED      | Hive transports attempting to reach %2 have been destroyed by defending %1 forces.
+MAIN_ALERT_INVADERS_KILLED        | %1 transports attempting to invade %2 have been completely destroyed by the Hive.
+MAIN_BOMBARD_TITLE                | Hive vessels are orbiting an enemy %2 colony.
+
+TECH_RESEARCH_COMPUTER            | The Hive must select the next computer technology for the thought-drones to focus on.
+TECH_RESEARCH_CONSTRUCTION        | The Hive must select the next construction technology for the thought-drones to focus on.
+TECH_RESEARCH_FORCE_FIELD         | The Hive must select the next force field technology for the thought-drones to focus on.
+TECH_RESEARCH_PLANETOLOGY         | The Hive must select the next planetology technology for the thought-drones to focus on.
+TECH_RESEARCH_PROPULSION          | The Hive must select the next propulsion technology for the thought-drones to focus on.
+TECH_RESEARCH_WEAPON              | The Hive must select the next weapon technology for the thought-drones to focus on.
+TECH_DISCOVERY_TITLE              | The Hive Achieves a %2 Breakthrough
+TECH_SCOUTED_TITLE                | While Exploring the Ruins of %1, Hive drones discover a new Technology
+TECH_STOLEN_TITLE                 | Hive infiltration-drones have infiltrated the %1 research center at %2.
+TECH_TRADED_TITLE                 | The Hive Acquires Technology from %2 Scientists
+TECH_PLUNDERED_TITLE              | While Plundering the Ruins of %1, Hive drones discover a new Technology
+TECH_ALLOCATE_SHIELD              | Should the Hive increase the defense ratios of all of it's colonies to build the new planetary shields?
+TECH_ALLOCATE_MISSILE_BASES       | Should the Hive increase the defense ratios of all of it's colonies to upgrade their missile bases?
+TECH_ALLOCATE_FACTORIES           | Should the Hive increase the industry ratios of all of it's colonies to upgrade their factory controls?
+TECH_ALLOCATE_CLEAN_WASTE         | Should the Hive reduce the ecology ratios of all of it's colonies to the minimum amount necessary to keep them clean?
+TECH_ALLOCATE_ENRICH_SOIL         | Should the Hive increase the ecology ratios of it's colonies with standard environments in order to begin terraforming it's planets?
+TECH_ALLOCATE_ATMOSPHERE          | Should the Hive increase the ecology ratios of it's colonies with hostile environments in order to begin terraforming it's planets?
+TECH_ALLOCATE_TERRAFORM           | Should the Hive increase the ecology ratios of all of it's colonies in order to begin terraforming it's planets?
+
+MAIN_ALLOCATE_STARGATE_COMPLETE   | • %1 's drones have completed building a Stargate.
+MAIN_ALLOCATE_SHIELD_COMPLETE     | • %1 's drones have completed building %2.
+MAIN_ALLOCATE_BASES_COMPLETE      | • %1 's drones have completed building %2 missile bases.
+MAIN_ALLOCATE_BASES_UPGRADED      | • %1 's drones have completed upgrading its missile bases.
+
+RACES_DIPLOMACY_DIALOGUE_TITLE    | [%1 Hive Xenorelations-Drone]
+
+NOTICE_ESPIONAGE_TITLE            | Hive infiltration-drones have infiltrated a %1 base.
+NOTICE_ESPIONAGE_FRAME_TITLE      | Hive infiltration-drones have managed to frame another entity for the theft.
+
+BOMBARD_TITLE                     | Hive vessels are orbiting an enemy star system.
+SHIP_COMBAT_TITLE_DESC            | Hive vessels encounter a hostile %1 starfleet.
+SABOTAGE_DESCRIPTION              | Hive infiltration-drones have successfully infiltrated %1 colonies and are ready to commit sabotage.
+
+SABOTAGE_FACTORIES_RESULT         | Hive infiltration-drones have destroyed %1 factories.
+SABOTAGE_BASES_RESULT             | Hive infiltration-drones have destroyed %1 missile bases.
+SABOTAGE_REBELS_RESULT            | Hive infiltration-drones have incited %1 rebels.
+SABOTAGE_REBELS_TOTAL             | Hive infiltration-drones have incited %1 rebels. Unrest now at %2%.
+SABOTAGE_REBELS_REVOLT            | Hive infiltration-drones have triggered a revolt!
+
+COUNCIL_CAST_PROMPT               | The Hive must choose (%1 votes)...
+
+MAIN_RALLY_PROMPT                 | Select a system under Hive control to send newly built ships to.
+MAIN_RALLY_ERROR                  | Rally points can only be created on systems under Hive control.
+
+MAIN_TRANSPORT_PROMPT             | Select a colonized system to send transport ships to.
+MAIN_TRANSPORT_SELECT_POP         | Select amount of population to send (up to half of %1's population).
+MAIN_TRANSPORT_SELECT_TROOPS      | Select amount of population to send (up to half of %1's population).
+MAIN_TRANSPORT_OUT_OF_RANGE       | This system is out of range of Hive transports.
+MAIN_TRANSPORT_UNSCOUTED          | It is not possible to send transports to unscouted systems.
+MAIN_TRANSPORT_HOSTILE            | Unreseached technology needed to land in this environment.
+
+MAIN_ALERT_TRESPASSING1           | %1 ships have been spotted trespassing near the Hive colony in the %2 system.
+MAIN_ALERT_TRESPASSING2           | The %1 ambassador protests Hive ships trespassing in the %2 system.
+MAIN_ALERT_TRANSPORTS_PERISHED    | The %1 colony in %2 has been destroyed. Hive drones attempting to land there have perished.
+MAIN_ALERT_TECH_STOLEN            | Security-drones have found out that a %1 spy has stolen the secrets of %2.
+MAIN_ALERT_SPY_CONFESSED          | The %1 have captured a Hive spy-drone, deducting it's %2 activities.
+
+PLANETS_COSTS_DESC                | Each colony contributes a percent of its production to support Hive-wide spending.
+PLANETS_TAX_DESC                  | Order colonies to contribute to the Hive's reserve.
+PLANETS_COLONY_TRANSFER_DETAIL    | Transfer funds from the reserve to increase this colony's production.
+PLANETS_COLONY_TRANSFER_BUTTON    | Transfer Funds From Reserve
+LANETS_TRANSFER_DESC              | Transfer Reserve Funds to %1
+PLANETS_TOTAL_INCOME              | Annual Income
+PLANETS_INCOME_TRADE              | Trade Income
+
+SHIP_COMBAT_TITLE_DESC            | Hive vessels meet a hostile %1 fleet.
+SHIP_COMBAT_TITLE_MONSTER_DESC    | Hive vessels encounter a hostile %1.
+
+RACES_DIPLOMACY_RELATIONS_UNKNOWN | The mood and motives of the %1 are inscrutable to Hive xenorelations and infiltration drones.
+RACES_DIPLOMACY_BUREAU_DESC1      | Contact foreign empires or recall xenorelations-drones to prevent empires from contacting you.
+RACES_DIPLOMACY_BUREAU_DESC       | Contact the %1 ambassador for an audience or establish contact if the Hive has previously recalled it's xenorelations-drones. 
+RACES_DIPLOMACY_BUREAU_DESC_RANGE | The Hive cannot establish diplomatic relations with empires that are out of it's ship range.
+RACES_DIPLOMACY_BUREAU_DESC_FINAL | The Hive is engaged in a final war with the New Republic. Negotiation is no longer an option. 
+RACES_DIPLOMACY_MANAGE_DIPLOMATS  | Manage Xenorelations-drones
+RACES_DIPLOMACY_TRADE_DESC_RANGE  | The Hive cannot establish trade networks with the %1 while they are out of it's ship range.
+RACES_DIPLOMACY_TRADE_DESC_FINAL  | The Hive is engaged in a final war with the New Republic. Trade is no longer possible. 
+RACES_MANAGE_REINSTATE_DIPLOMAT   | Reinstate Xenorelations-drone
+RACES_MANAGE_RECALL_DIPLOMAT      | Recall Xenorelations-drone
+RACES_MANAGE_OUR_RECALLED         | Hive xenorelations-drone recalled
+RACES_INTEL_TAX_DESC              | Order colonies to increase spending and chance of discovering alien spies.
+RACES_INTEL_BUREAU_DESC           | Assign infiltration-drones to steal technology or sabotage alien life-forms.
+RACES_INTEL_SPY_ORDERS_DESC       | Assign infiltration-drones to hide, steal secrets, or sabotage %1 colonies. The larger the spy network, the greater chance of success each turn as long as none of the drones is captured and it's activities deducted.
+RACES_INTEL_KNOWN_TECH_DESC       | Infiltration-drones report the %1 have mastered the following technologies. Any technology unknown to the Hive is highlighted.
+RACES_INTEL_UNKNOWN_TECH_DESC     | Infiltration-drones report alien life-forms have mastered the following technologies unknown to the Hive.
+
+SYSTEMS_UNSCOUTED                 | System is unscouted but is within reach of Hive's scout ships.
+SYSTEMS_CAN_COLONIZE              | System can be reached and colonized with current technology.
+SYSTEMS_EXT_ENEMY_FLEET_PLAYER    | Enemy fleet orbiting a Hive colony.
+SYSTEMS_EXT_INC_FLEET_PLAYER      | Enemy fleet in transit to a Hive colony.
+
+
+
+// text for endings... '#' represents a paragraph break
+// variables: %1 Game year, %2 player name, %3 player race, %4 player empire, %5 leader name, %6 leader race, %7 leader empire, %8 is special race-specific text described below
+GAME_OVER_MILITARY_LOSS2          | The Hive has fallen...#In it's exploration of the cosmos it encountered many strange life-forms, and not all of them were friendly to the Hive.#While the Hive hoped that they would leave it alone, their true intent was very much the opposite.#When they came for it's worlds neither the Hive's attempts at negotiating peace, nor it's industrious single-minded nature could save it from what would happen next.#As all of the Hive's attempts at defending itself failed, it's enemies conquered or glassed world after world, ruthlessly killing any Hive drones they encountered. #In it's last moments, the remnants of the Hive could only wonder, would the Hive have survived had it not tried to attempt peaceful co-existence with the life-forms it encountered...
+GAME_OVER_MILITARY_WIN2           | The Hive survives.#It stepped out into the vast depths of space with one goal: to achieve complete dominance over this galaxy. #This was the driving factor behind every decision the Hive has made, and that was the goal for which the extermination of all remaining non-Hive-like life-forms had to be commited.#Now, with no other life-forms in this galaxy to slow the Hive down or sidetrack it, the Hive can focus solely on finding the means to traverse the infinite void separating this galaxy from the billions of others that exist in this universe.#For once such a technology is found, the Hive will turn into a truly unstoppable force, capable of dominating not just this galaxy, but all the other ones as well...
+GAME_OVER_MILITARY_ALLIANCE_WIN2  | The Hive and it's allies prosper.#While many of the life-forms the Hive found in this galaxy were unfriendly, some were sympathetic to the Hive and earned it's friendship.#When those life-forms hostile to the Hive tried to destroy it, they were, ironically, destroyed themselves by not just Hive forces, but by the allies of the Hive, who aided it in the prolonged interstellar conflicts that resulted from that.#Now, with the last life-form which would rather have the Hive not exist exterminated, this galaxy is shared between the Hive and it's allies.#The Hive, now free to pursue it's own interests, is focusing on creating a means to assimilate the population of it's allies into a new collective conciousness like the Hive itself, while retaining their individuality and free will. When found, this already peaceful galaxy will know true harmony.#But for now the Hive must wait, and it has all the time in the universe to do so...
+GAME_OVER_DIPLOMATIC_LOSS2        | The Hive survives, though this is not how it has envisioned it's future.#Though the Hive tried it's best to try and convince the other life-form that it's idea of the future was the best one and would lead to harmony and mutual understanding between all the inhabitants of this galaxy, the Hive's ideas proved to not be as popular as the ideas of another race, who received the most votes and thus became Leader of the Galaxy...#The Hive, understanding what would happen if it tried to reject this ruling, accepted it, as did all the other civilizations in this galaxy.#Now the galaxy is under the complete control of the New Republic. Perhaps, now, the fact that Hive did not achieve dominance over this galaxy does not matter - for the future that awaits is bright and free from conflict, guaranteeing the Hive's survival.#Perhaps the life-forms the Hive encountered in space really were different from the many predators of Kholdan...
+GAME_OVER_ALLIANCE_WIN2           | The Hive and it's allies prosper.#Though it is not the Hive itself that dominated this galaxy, rather it's trusted ally, and not through the force of weapons, but the force of negotiation, the Hive is satisfied.#With the %6 being the Leader of the Galaxy, the power they wield is absolute. If any one of the life-forms that used to be enemies of the Hive try to destroy it once again they will find the entire galaxy united against them.#It is clear that the future of this galaxy is bright and peaceful. While the other life-forms try to expand and develop every last world in this galaxy, the Hive will attempt to create a means of traveling to other galaxies, and then, the entire universe will be within the New Republic's reach...
+GAME_OVER_REBELLION_LOSS2         | The Hive has fallen...#It tried and failed to convince the other life-forms that only the Hive could provide a peaceful future, and when the %6 were chosen as Leader of the Galaxy, the Hive tried to resist, in hopes that perhaps the others would see them for what the Hive saw them - not truly wanting peace, but rather to achieve control over this galaxy, and that when the others would see it they would rise up against them.#But instead, the galaxy united not against the %6, but the Hive, vowing to completely exterminate it to the last drone.#No force known to the Hive is strong enough to stand against a united galaxy, and the Hive was no exception. In it's last moments, it could only wonder whether submitting to the Galactic Council might have been preferable to extinction...
+GAME_OVER_REBELLION_WIN2          | The Hive survives.#Nothing would stand in the way of the Hive achieving galactic domination.#The "Galactic Council" and the "New Republic" it tried to form were no exception.#The Hive would not submit itself to other life-forms, and so it rejected the ruling of the arrogant Council that thought it deserved to control this galaxy, and not the Hive.#Standing no chance, they died clinging to their New Republic.#Now with all other inferior life-forms out of the way, the Hive can focus solely on cracking the secret behind intergalactic travel, and then the entire universe will bow down to it...
+GAME_OVER_REBEL_ALLIANCE_WIN2     | The Hive and it's allies prosper.#The allies that understood the true intent of the greedy, power-hungry life-form that was chosen "Leader of the Galaxy", in an unfair and rigged election. The allies that understood what had to be done to secure the galaxy a truly bright and wondrous future. The allies that remained on the Hive's side in face of everything.#Now that the last remnants of the New Republic have turned to ashes, a new era is set to begin for the galaxy - an era of mutual understanding and cooperation, a future brighter than the light of a thousand supernovas.#The only limiting factor now is the boundaries of the Hive's imagination...
+GAME_OVER_DIPLOMATIC_WIN2         | The Galaxy and everyone in it prospers.#The Hive has managed to convince many life-forms that it could provide a bright future free from conflict and was thus chosen Leader of the Galaxy by popular vote.#Now only one banner rules the Galaxy - the banner of the New Republic. As soon as the thought-drones, with the help of the New Republic, finish creating a means of assimilation that retains the personality and free will of populations, the Convergence will begin, and the entire Galaxy will experience true harmony...#And then, with the Galaxy united, it will create means of traveling to other galaxies to spread this harmony to other life-forms...#And it shall do so until the entire universe is harmonious...
+GAME_OVER_NEW_REPUBLIC_WIN2       | The Galaxy prospers.#Now that the rebellion has finally been dealt with and the Galaxy has been assimilated into one collective conciousness, albeit with free will and individuality of alien life-forms retained, it finally knows true harmony...#The Final War was devastating, but with the Galaxy in a state of now perpetual peace and finally understanding itself, it shall rebuild all what was lost and surpass it by a billion times.#The future is bright and wondrous...#If only those who died along the way have seen it...
+GAME_OVER_NEW_REPUBLIC_LOSS2      | The New Republic has fallen.#The utopian future the Hive promised to the inhabitants of this galaxy never came to be, as the New Republic was destroyed world by world by the rebel forces who outsmarted and outgunned all of the Republic's attempts at resistance.#Placed in such a situation the Hive, as well as it's allies, could only wait until their slow, inevitable demise...#The future of the rebels, however, is equally bleak - they will never know the true harmony and mutual understanding that they could have had they not lashed out against the New Republic and simply allowed the Galaxy to be assimilated...#In the end, nobody won. Everybody lost...
+// unused in game
+GAME_OVER_OVERTHROWN_LOSS2        | In the year %1 the rule of %2 has ended, overthrown by rebelling colonies within the %3. Now exiled and powerless, you have lost control over the ultimate fate of your former empire. May your successor be a better leader!
+
+
+// This text is the %8 variable in some of the game over text... when this race wins the game
+GAME_OVER_ALLIANCE_WIN3           | the unerring single-mindedness of the Klackon
+GAME_OVER_REBELLION_LOSS3         | the soulless hordes of the Klackon dominates
