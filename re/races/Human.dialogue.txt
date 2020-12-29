@@ -14,8 +14,8 @@
 
 // Human specific dialogue
 
-CONTACT_HONORABLE          | The Planetary Federation greets your people, [your_name]. I and my colleagues represent the [my_race] race. Please do not hesitate to contact us if you have any concerns.
-CONTACT_PACIFIST           | We greet you, fellow brothers-in-intelligence. We are the [my_race] race, and we hope for a bright, peaceful future of galactic cooperation
+CONTACT_HONORABLE          | We are the [my_race_plural] of Earth, [your_title], and we're very excited to make contact with you. If you need anything of the Triumvirate, anything at all, please don't hesitate to ask.
+CONTACT_PACIFIST           | A warm hello, [your_name]. You are the [your_empire]? I represent the [my_empire], and I hope this will be the first of countless friendly exchanges between our people.
 CONTACT_ERRATIC            | The people of Earth usually prefer to solve our problems with negotiation and diplomacy. If your people prefer more violent methods though, we'd be more than happy to accommodate you, [your_race].
 //
 GREETING_01                | Ah! The ambassador for the [your_empire] is here! Can I get you any food or drink? Please make yourself comfortable and tell me what we can do for you today.
