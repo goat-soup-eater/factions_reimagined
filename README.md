@@ -10,5 +10,5 @@ How to install:
  - Open Remnants.jar with an archive tool (WinRar, 7-Zip, etc.)
  - Go to rotp/lang.
  - Extract the downloaded zip file, go to factions_reimagined-master/. 
-  - Add the folder re and the languages.txt file to the archive.
+  - Add the folder re and the languages.txt file to the Remnants.jar archive.
  - Run the game and choose Reimagined as your language. Done!
