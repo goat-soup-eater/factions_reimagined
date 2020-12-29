@@ -180,12 +180,12 @@ WARN_SABOTAGE_07           | Emperor [your_name], if you wish to avert a sensele
 WARN_SABOTAGE_08           | The [my_empire] will not long stand for acts of terrorism and sabotage from the mighty [your_empire]. Wars have begun over less. [framed]
 WARN_SABOTAGE_09           | The noble [my_race] will always stand against the tyrant [your_empire] and its wanton acts of terrorism. [framed]
 
-WARN_GENOCIDE_04           | [attacker_nameTitle] [attacker_name], you go too far! The mighty [my_race] do not look kindly upon your conquest of the [victim_race].
-WARN_GENOCIDE_05           | Remember [your_name], that conquest is often a sword with two edges.
+WARN_GENOCIDE_04           | [attacker_nameTitle] [attacker_name], you go too far! The mighty [my_race] do not look kindly upon your genocide of the [victim_race].
+WARN_GENOCIDE_05           | Remember [your_name], that genocide is often a sword with two edges.
 WARN_GENOCIDE_06           | The friendly [my_race] hope that the powerful [your_empire] continue to distinguish between friend and foe.
-WARN_GENOCIDE_07           | Your conquest of the [victim_race] race reminds the mighty [my_empire] that we also do not particularly like your pathetic species.
-WARN_GENOCIDE_08           | Your conquest of the entire race of [victim_race] makes clear that violence is the only lesson your foul species understands.
-WARN_GENOCIDE_09           | Your attakcs against the [victim_race] betray your ruthlessness to the entire galaxy.
+WARN_GENOCIDE_07           | Your mass murder of the [victim_race] race reminds the mighty [my_empire] that we also do not particularly like your pathetic species.
+WARN_GENOCIDE_08           | Your elimination of the entire race of [victim_race] makes clear that violence is the only lesson your foul species understands.
+WARN_GENOCIDE_09           | Your barbaric acts against the [victim_race] betray your ruthlessness to the entire galaxy.
 
 WARN_FINAL_WAR_01          | Soon the [my_empire] will put an end to your pathetic rebellion.
 WARN_FINAL_WAR_01          | You cannot resist the might of the New Republic. Prepare to die.
