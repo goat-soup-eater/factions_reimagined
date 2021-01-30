@@ -1,7 +1,7 @@
 # factions_reimagined
 This mod replaces writing for the races in the game Remnants of the Precursors. 
 
-The process is quite long so the mod only changes the writing for the Klackon for now, but eventually will change the writing for all (or most) races in the game.
+The process is quite long so the mod only changes the writing for the Klackon and Humans for now, but eventually will change the writing for all (or most) races in the game.
 
 How to install:
 
