@@ -1,7 +1,13 @@
 # factions_reimagined
-This mod replaces writing for the races in the game Remnants of the Precursors. 
+This mod replaces writing for the races in the game Remnants of the Precursors. Development has ended.
 
-The process is quite long so the mod only changes the writing for the Klackon and Humans for now, but eventually will change the writing for all (or most) races in the game.
+Only the Klackon and Human race are complete. Files with incomplete content are:
+
+- Alkari intro, dialogue
+- Bulrathi intro, labels
+- Darlok dialogue
+- Meklar dialogue, labels, intro
+- Silicoid intro
 
 How to install:
 
@@ -11,4 +17,4 @@ How to install:
  - Go to rotp/lang.
  - Extract the downloaded zip file, go to factions_reimagined-master/. 
   - Add the folder re and the languages.txt file to the Remnants.jar archive.
- - Run the game and choose Reimagined as your language. Done!
+ - Run the game and choose Reimagined as your language.
