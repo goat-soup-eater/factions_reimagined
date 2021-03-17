@@ -1,12 +1,12 @@
 // race-specific variables (must start with _)
-_empire                           | Bulrathi Empire, Bearathi Empire, Ursinathi Empire, Pawrathi Empire, Grizzlathi Empire
+_empire                           | Bulrathi Union, Bearathi Union, Ursinathi Union, Pawrathi Union, Grizzlathi Union
 _race                             | Bulrathi, Bearathi, Ursinathi, Pawrathi, Grizzlathi
 _race_plural                      | Bulrathis, Bearathis, Ursinathis, Pawrathis, Grizzlathis
-_title                            | Grand Hierarch
-_nameTitle                        | Grand Hierarch
+_title                            | Secretary-General
+_nameTitle                        | Secretary-General
 
 
-GOVT_EMPIRE                       | %1 Empire
+GOVT_EMPIRE                       | %1 Union
 
 //
 // All text below this point is copyright 2018-2020 Jeff Colucci
@@ -25,13 +25,13 @@ GOVT_EMPIRE                       | %1 Empire
 // Advisor text
 MAIN_ADVISOR_TITLE                | %1 Advisor
 MAIN_ADVISOR_BUTTON_OK            | Dismiss
-MAIN_ADVISOR_SCOUT                | Master, we've prepared both scouts and a colony ship for departure. We'll begin exploring and colonizing a nearby system at your command.
-MAIN_ADVISOR_TRANSPORT            | The world of %1, added to our empire! Give the order and we shall begin sending transports immediately!
-MAIN_ADVISOR_DIPLOMACY            | An alien race has made contact with our empire, Master. Whether we treat them as friend or foe is a decision solely left to your discretion.
-MAIN_ADVISOR_SHIP_ENGINE          | Our scientists continue to push the limits of technology, this time by improving the speed of our engines. They await your decision on updated ship designs.
-MAIN_ADVISOR_RALLY_POINTS         | A glorious battle is upon us! Direct our newly crafted ships with Rally Points to assemble our fleets wherever you desire.
-MAIN_ADVISOR_MISSILE_BASES        | Our colonies await your word, Master, to begin the construction of missile bases to aid in their defense against enemy attacks.
-MAIN_ADVISOR_SHIP_WEAPON          | Our researchers have conceived devastating new weaponry for our fleets! Revisit our ship designs at your leisure, Master, to decide how our enemies will fall before our overwhelming might.
+MAIN_ADVISOR_SCOUT                | The scout vessels and the colonial ship are finally constructed. They are already outside of Ursa's gravity well and are ready to begin interstellar flight to neighboring systems.
+MAIN_ADVISOR_TRANSPORT            | The galaxy seems to be more habitable than we expected. Hopefully the %1 colony will turn out well. Otherwise the entire programme may be cut. We should encourage a migration to it so that the colony develops faster.
+MAIN_ADVISOR_DIPLOMACY            | It is strange that those aliens are so... weak. If they ever become problematic we could use that fact against them, though the Committee seems to want peaceful relations with them. Why, I don't understand.
+MAIN_ADVISOR_SHIP_ENGINE          | This new interstellar drive technology could greatly help our mission. Integrating it into new ships would be a wise move.
+MAIN_ADVISOR_RALLY_POINTS         | The Committee is tearing itself apart at the moment but that is of no concern. We can always deal with them later on. For now, let's direct our shipyards to start building warships and our troopers to land on the alien worlds.
+MAIN_ADVISOR_MISSILE_BASES        | Though their actual effectiveness is questionable, constructing defensive missile bases on our colonies will discourage hit-and-run attacks and will surely make for some great PR. And we need all we can get if the Committee is to continue supporting us.
+MAIN_ADVISOR_SHIP_WEAPON          | This piece of devastating military technology will surely help our mission, as long as we utilize it, of course.
 MAIN_ADVISOR_COUNCIL              | Representatives for the first Galactic Council will soon gather, Master. Our diplomats shall follow your direction to ensure the decisions of the council align with your will. 
 MAIN_ADVISOR_REBELLION            | It would seem the people of %1 have decided to defy you openly, Master. It’s time to remind them why you are the one chosen to lead the Empire!
 MAIN_ADVISOR_RESIST_COUNCIL       | Only you may sit on the throne of the galaxy! We will not quash our bloodlust until you take your rightful place, Master!

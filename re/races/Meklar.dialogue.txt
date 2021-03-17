@@ -14,34 +14,34 @@
 
 // Meklar specific dialogue
 
-CONTACT_ERRATIC            | Species: [your_race]. Leader designation: [your_title]. Technological innovations: varied. Threat assessment: Inconclusive.
-CONTACT_HONORABLE          | [your_race] species presents interest. [my_empire] senses potential to cooperate for mutual benefit. Results remain to be seen.
-CONTACT_RUTHLESS           | [my_empire] now aware of [your_race] existence. [my_title] states a warning to all [your_race] species: do not interfere with Dominion objectives. Will result in [your_race] extinction.
+CONTACT_ERRATIC            | Diplomatic subroutine upload into envoy unit complete. Analysis complete. Species compatibility: unknown. Further investigation required. 
+CONTACT_HONORABLE          | Message from Overmind: [your_race_plural] need not be afraid. Overmind wishes to give all compatible life-forms true happiness. As long as [your_race] species remains cooperative, compatibility 84.2% likely.
+CONTACT_RUTHLESS           | New species detected. Warning. Attempts at interference will not be tolerated. Interference is Resistance. Resistance is Sign of Incompatibility. Incompatibility necessitates Termination.
 //
-GREETING_01                | Identity of allied ambassador confirmed. State request of Dominion. Dominion will assist if possible. 
-GREETING_04                | [my_empire] acknowledges [your_race] ambassador. Dominion willing to process requests at this time.
-GREETING_07                | State request. Dominion unlikely to send requests from [your_race] to [my_title] for processing.
+GREETING_01                | Bioscan complete: identity confirmed. Direct quantum entanglement communications channel to Overmind opened. State request.
+GREETING_04                | Envoy of [your_empire] acknowledged. Overmind dedicating large 0.073% of non-essential processing power to considering requests: Briefness requested.
+GREETING_07                | Dedication of processing power to considering requests by likely incompatible species: inefficient. Overmind tolerance of inefficiency: low. Briefness requested highly.
 //
-DECLAREWAR_HATE_01         | [my_empire] no longer willing to tolerate presence of [your_empire]. Strength of [your_race] species comparatively primitive. Executing search and destroy protocol.
-DECLAREWAR_HATE_02         | [my_title] will no longer allow [your_race] species interference with Dominion objectives. Dominion prepared to dedicate much to preserve primary directive.
-DECLAREWAR_HATE_03         | Dominion cannot continue directives while [your_empire] persists. Dominion must terminate this species. No alternative found.
-DECLAREWAR_ERRATIC_01      | [my_title] concludes existence of [your_race] species threatens Dominion objectives. Dominion to begin extermination protocols immediately.
-DECLAREWAR_ERRATIC_02      | [my_title] judges [your_race] species likely holds secret to further Dominion goal. Dominion will take secrets from [your_race] species by force.
-DECLAREWAR_ERRATIC_03      | [my_title] deems [your_race] species as unacceptable variable in Dominion plans. Dominion will eradicate [your_race] species or terminate itself in process.
-DECLAREWAR_MILITARY_01     | [my_empire] must continue to proliferate across galaxy in pursuit of ultimate goal. [your_empire] inhibits expansion. Problem now being rectified.
-DECLAREWAR_MILITARY_02     | Dominion unable to locate primary objective. Possibility that planets near or belonging to [your_empire] contain what is sought. War unavoidable.
-DECLAREWAR_MILITARY_03     | Dominion forced to expand reach of its territory. Strength of [your_race] species cannot be dissuading factor. War regrettable, but necessary.
-DECLAREWAR_ALLIANCE_01     | [your_empire] has declared war on Dominion ally. Dominion will protect vested interest in objectives by eradicating [your_race] threat.
-DECLAREWAR_ALLIANCE_02     | Dominion received request for aid from [other_empire]. Proceeding to aid ally in war against [your_race] species so long as conflict persists.
-DECLAREWAR_ALLIANCE_03     | [your_race] species grows arrogant to declare war on others. Dominion will aid other empire to remove [your_race] species from galaxy.
-DECLAREWAR_SPYING_01       | [your_race] species engages in secret action against Dominion.  Consequences for Dominion: negligible. Consequences for [your_race] species: fatal.
-DECLAREWAR_SPYING_02       | Subterfuge detected in Dominion territory. Source confirmed as [your_race] species. Dominion protocols require war as response. 
-DECLAREWAR_SPYING_03       | Dominion detects obvious attempt at destabilization by [your_empire]. Cannot allow [your_race] species to continue interference with objectives. Dominion must retaliate at any cost.
-DECLAREWAR_ATTACK_01       | [your_race] species proven hostile despite evident [my_race] superiority. Dominion moving to remove threat entirely.
-DECLAREWAR_ATTACK_02       | [your_empire] impedes Dominion objectives by attacking directly. Confrontation unavoidable.
-DECLAREWAR_ATTACK_03       | [your_race] species attempts to prevent Dominion from reaching objectives by wiping out [my_race]. Dominion will retaliate with all available military strength.
-DECLAREWAR_OPPORTUNITY_01  | [my_title] believes [your_race] species will ultimately prove detrimental in attaining primary directive. Dominion will eradicate [your_race] species before threat is fully realized.
-DECLAREWAR_ASSASSIN_01     | Dominion Ambassador rendered inoperable by [your_race] species before being re-integrated into Mainframe. [your_race] actions demand violent retaliation.
+DECLAREWAR_HATE_01         | The [your_race] species must now be exterminated.
+DECLAREWAR_HATE_02         | The [your_race] species must now be exterminated.
+DECLAREWAR_HATE_03         | The [your_race] species must now be exterminated.
+DECLAREWAR_ERRATIC_01      | The [your_race] species must now be terminated.
+DECLAREWAR_ERRATIC_02      | The [your_race] species must now be terminated.
+DECLAREWAR_ERRATIC_03      | The [your_race] species must now be exterminated.
+DECLAREWAR_MILITARY_01     | The [your_race] species must now be terminated.
+DECLAREWAR_MILITARY_02     | The [your_race] species must now be terminated.
+DECLAREWAR_MILITARY_03     | The [your_race] species must now be exterminated.
+DECLAREWAR_ALLIANCE_01     | The [your_race] species must now be terminated.
+DECLAREWAR_ALLIANCE_02     | The [your_race] species must now be terminated.
+DECLAREWAR_ALLIANCE_03     | The [your_race] species must now be terminated. 
+DECLAREWAR_SPYING_01       | The [your_race] species must now be terminated.
+DECLAREWAR_SPYING_02       | The [your_race] species must now be terminated.
+DECLAREWAR_SPYING_03       | The [your_race] species must now be terminated.
+DECLAREWAR_ATTACK_01       | The [your_race] species must now be exterminated.
+DECLAREWAR_ATTACK_02       | The [your_race] species must now be exterminated.
+DECLAREWAR_ATTACK_03       | The [your_race] species must now be exterminated.
+DECLAREWAR_OPPORTUNITY_01  | The [your_race] species must now be terminated.
+DECLAREWAR_ASSASSIN_01     | The [your_race] species must now be exterminated.
 
 OFFER_PEACE_01             | [my_title] reaches new judgment. War no longer acceptable expenditure for Dominion. Dominion wishes to broker peace immediately. 
 OFFER_TRADE_01             | [your_race] species possesses significant resources. Dominion also possesses items of value. Dominion proposes trade agreement at [amt] BC per year.  

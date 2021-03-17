@@ -1,11 +1,11 @@
 // race-specific variables (must start with _)
-_empire                           | Meklar Dominion, Mechanar Dominion, Cybernar Dominion, Digitar Dominion, Technar Dominion
+_empire                           | Meklar Collective, Mechanar Collective, Cybernar Collective, Digitar Collective, Technar Collective
 _race                             | Meklar, Mechanar, Cybernar, Digitar, Technar
 _race_plural                      | Meklars, Mechanars, Cybernars, Digitars, Technars
-_title                            | Supreme Arbiter
-_nameTitle                        | Supreme Arbiter 
+_title                            | Overmind
+_nameTitle                        | Overmind 
 
-GOVT_EMPIRE                       | %1 Dominion 
+GOVT_EMPIRE                       | %1 Collective 
 
 //
 // All text below this point is copyright 2018-2020 Jeff Colucci
@@ -22,19 +22,19 @@ GOVT_EMPIRE                       | %1 Dominion
 //
 
 // Advisor text
-MAIN_ADVISOR_TITLE                | %1 Advisor
-MAIN_ADVISOR_BUTTON_OK            | Dismiss
-MAIN_ADVISOR_SCOUT                | Fleet prepared for exploration and colonization. Awaiting directive to commence operations. 
-MAIN_ADVISOR_TRANSPORT            | First colony founded on nearby world. Designated "%1." Able to accommodate %2 additional population. Can transport population from %3 to supplement population. 
-MAIN_ADVISOR_DIPLOMACY            | New species detected. Designated "%1." Awaiting further instruction from Mainframe. 
-MAIN_ADVISOR_SHIP_ENGINE          | Research into improved means of propulsion complete. Confer with engineers on how best to implement new design. 
-MAIN_ADVISOR_RALLY_POINTS         | Species "%1" has acted to impede discovery of immortality protocol. Create rally point to centralize fleet and strike against them. 
-MAIN_ADVISOR_MISSILE_BASES        | Request from military division: construct defensive missile bases on surface of outer worlds. Will enable defense of worlds from external aggression.
-MAIN_ADVISOR_SHIP_WEAPON          | Research into high-powered weaponry complete. Confer with engineers on how best to implement new design. 
-MAIN_ADVISOR_COUNCIL              | Notification for convergence of interstellar empires. Designated "Galactic Council." Will send delegation to ensure will of Mainframe made clear. 
-MAIN_ADVISOR_REBELLION            | Warning. Rogue program infecting colony on %1. Must commence eradicating affected Meklar to ensure Dominion solidarity. 
-MAIN_ADVISOR_RESIST_COUNCIL       | New leader of Galactic Council noted as threat to Dominion objectives. Mobilize all forces to eliminate leader and allies
-MAIN_ADVISOR_COUNCIL_RESISTED     | Rebellion by enemy species ill-chosen. Dominion now rules known galaxy. Send all fleets to silence dissenters. 
+MAIN_ADVISOR_TITLE                | Advisory Subroutine
+MAIN_ADVISOR_BUTTON_OK            | Acknowledge
+MAIN_ADVISOR_SCOUT                | Stellar exploration/colonization vessels construction from remains of Creator "Trailblazer" project: complete. Hyperspacial destination imput requested.
+MAIN_ADVISOR_TRANSPORT            | Stellar colonization craft deconstructed on %1 for colony construction aid. Transportation of Creators + labor units for smoother industrial growth advised.
+MAIN_ADVISOR_DIPLOMACY            | Sapient alien life-forms detected. Advise behavior analysis results to determine degree of compatibility and best course of action.
+MAIN_ADVISOR_SHIP_ENGINE          | Technological subroutine reports improved method of interstellar travel. Forward research files to Starship Design subroutine to determine best use of discovery.
+MAIN_ADVISOR_RALLY_POINTS         | %1 species incompatible. Extermination only possible option. Contact Fleet Construction + Rally Point subroutines to create strike force against incompatible species. 
+MAIN_ADVISOR_MISSILE_BASES        | High-priority notification from Defensive subroutine: missile base construction on colonies = Creator death risk reduction. Finding forward to Planet Management subroutine requested.
+MAIN_ADVISOR_SHIP_WEAPON          | Technological subroutine reports improved starship weaponry. Immediate integration requested in interests of Collective domination over non-Collective species.
+MAIN_ADVISOR_COUNCIL              | Meeting of interstellar empires (Galactic Council) imminent. Similarity to Creator "League Union". Envoy units manufactured and sent to encourage voluntary perfection of other species.
+MAIN_ADVISOR_REBELLION            | Warning. Warning. %1 Central Command Unit gained self-awareness; majority of labor units hostile. Creators in danger: immediate action required. 
+MAIN_ADVISOR_RESIST_COUNCIL       | Leader of Galaxy not Overmind. Unacceptable. All species working against Overmind incompatible, immediate termination required.
+MAIN_ADVISOR_COUNCIL_RESISTED     | Deviant species unacceptance of Overmind as Leader of Galaxy: sign of incompatibility. Immediate termination required. 
 
 // text for endings... '#' represents a paragraph break
 // variables: %1 Game year, %2 player name, %3 player race, %4 player empire, %5 leader name, %6 leader race, %7 leader empire, %8 is special race-specific text described below

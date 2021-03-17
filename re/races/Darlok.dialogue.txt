@@ -14,7 +14,7 @@
 
 // Darlok specific dialogue
 
-CONTACT_AGGRESSIVE         | We greet you this day, wayward citizen of the cosmic void. We also offer a word of caution: do not to impede us in our search, or you may not live to regret this fateful encounter.
+CONTACT_AGGRESSIVE         | we are [my_name] | we speak for the convocation of darlok in this dimensional plane | your flow - unknown, must be proven
 CONTACT_RUTHLESS           | We greet you, denizens of foreign space. It would be best for you to do what you can to ensure our co-existence is... mutually beneficial.
 CONTACT_ERRATIC            | A happenstance meeting in a sea of stars. Be wary of the darkness in this celestial abyss, for you will find it to conceal many things unseen...
 //
